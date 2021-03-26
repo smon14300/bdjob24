@@ -69,6 +69,6 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<?php newwpsafelink_bottom();?>
 </body>
 </html>
